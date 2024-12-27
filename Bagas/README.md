@@ -12,5 +12,5 @@ This application is gonna help you to study by making a shortcut to various webs
 8. Click "Click here" button to get your motivasion
 
 ## Screenshot
-[image](image/Screenshot 2024-12-19 172059.png)
-[image](image/Screenshot 2024-12-27 102735.png)
+![Screenshot](images/Screenshot%202024-12-19%20172059.png)
+![Screenshot](images/Screenshot%2024-12-27%102735.png).
