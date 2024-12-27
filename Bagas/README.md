@@ -2,7 +2,7 @@
 This application is gonna help you to study by making a shortcut to various website that can help your study. Besides that you can get a great motivation to uplift your morale in your study.
 
 ## Instruction
-1. Click progress button then wait until the progress is fill o 100%
+1. Click progress button then wait until the progress is fill to 100%
 2. Select ChatGPT button when you want to open ChatGPT
 3. Select Gemini button when you want to open Gemini
 4. Select Cloude button when you want to open Cloude
@@ -12,5 +12,6 @@ This application is gonna help you to study by making a shortcut to various webs
 8. Click "Click here" button to get your motivasion
 
 ## Screenshot
-![Screenshot](images/Screenshot%202024-12-19%20172059.png)
-![Screenshot](images/Screenshot%2024-12-27%102735.png).
+![image](image/image_1.png)
+
+![image](image/image_2.png)
